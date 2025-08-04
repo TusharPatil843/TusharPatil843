@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Tushar Patil
 
 <p align="left">
-  <a href="https://github.com/TusharPatil843" target="_blank"><img src="https://img.shields.io/github/followers/TusharPatil843?label=GitHub&style=social"></a>
-  <a href="https://linkedin.com/in/tusharpatil843" target="_blank"><img src="https://img.shields.io/badge/-Tushar%20Patil-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
-  <a href="mailto:patil.tusharp09@gmail.com"><img src="https://img.shields.io/badge/-patil.tusharp09@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
+  <a href="https://github.com/TusharPatil843" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/tusharpatil843" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:patil.tusharp09@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -12,7 +12,7 @@
 🔧 **Full-Stack Developer** | Problem Solver | Tech Enthusiast  
 📍 Passionate about building scalable, user-centric solutions using modern web technologies.  
 
-> **"With curiosity as my compass, I navigate the ever-evolving world of code."**
+> 🧭 **"With curiosity as my compass, I navigate the ever-evolving world of code."**
 
 ---
 
@@ -49,7 +49,6 @@ Tech: React, Bootstrap, NewsAPI
 
 - 🥇 **Winner (2024)** & 🥈 **Runner-up (2023)** – *Debug the Code*  
 - 💯 **100 Days of Code – LeetCode** badge for daily DSA  
-- 🧩 Enthusiastic DSA and problem-solving learner  
 
 ---
 
@@ -61,8 +60,9 @@ Tech: React, Bootstrap, NewsAPI
 
 ---
 
-## 🤝 Open to
+## 🤝 Open To
 
+- 💼 Full-time Software Development roles (Frontend/Full-Stack)  
 - Frontend/Full-stack internships  
 - Remote collaboration on web projects or open-source  
 
@@ -85,8 +85,8 @@ Tech: React, Bootstrap, NewsAPI
 
 ## 📜 Certifications
 
-- ✅ ReactJS – GeeksforGeeks  
-- ✅ Frontend Development – Coding Ninjas  
+- ✅ [ReactJS – GeeksforGeeks](https://media.geeksforgeeks.org/courses/certificates/53bf1a8bbb7dca0cc148f5a84b09c45e.pdf)  
+- ✅ [Frontend Development – Coding Ninjas](https://drive.google.com/file/d/17kPx6gPB8-bwXt07yGGwgWqJHQI-2avJ/view)
 
 ---
 
@@ -101,18 +101,6 @@ Tech: React, Bootstrap, NewsAPI
 - 🔗 [LeetCode Profile](https://leetcode.com/u/Tushar843)  
 - Completed **100 Days of Code** LeetCode challenge  
 - Consistent DSA practice and problem-solving in Java  
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TusharPatil843&show_icons=true&theme=react&hide_border=true" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TusharPatil843&theme=react&hide_border=true" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharPatil843&layout=compact&theme=react&hide_border=true" />
-</p>
 
 ---
 
