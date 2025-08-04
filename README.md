@@ -12,7 +12,7 @@
 🔧 **Full-Stack Developer** | Problem Solver | Tech Enthusiast  
 📍 Passionate about building scalable, user-centric solutions using modern web technologies.  
 
-> 🧭 **"With curiosity as my compass, I navigate the ever-evolving world of code."**
+🧭 **"With curiosity as my compass, I navigate the ever-evolving world of code."**
 
 ---
 
