@@ -79,7 +79,7 @@ Tech: React, Bootstrap, NewsAPI
 ## 🎓 Education
 
 **B.E. in Computer Engineering** — *Savitribai Phule Pune University*  
-2025 Expected | CGPA: 7.79  
+2021 - 2025 | CGPA: 7.79  
 
 ---
 
